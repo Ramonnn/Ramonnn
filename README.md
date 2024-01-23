@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, my name is Ramon</h1>
 
-- 🌱 I’m currently interested in expanding my knowledge on **Python, NeoVim, Data Engineering, and (AWS) Cloud**
+- 🌱 I’m currently interested in expanding my knowledge on **Python, NeoVim, Data Engineering, DevOps and (AWS) Cloud**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
